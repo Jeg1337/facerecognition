@@ -1,2 +1,2 @@
-# facerecognition
-simlpe face recognition program
+# face_recognition
+face recognition simple python program w/ lil dataset
