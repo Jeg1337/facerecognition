@@ -1,2 +1,2 @@
 # facerecognition
-simlpe face recognition program
+simlpe face recognition program w/ lil dataset
